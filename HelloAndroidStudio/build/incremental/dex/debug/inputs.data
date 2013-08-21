@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1377035350000 388 9b03bed82d352bf59b019146918c08df9557f86c /home/steve/AndroidStudioProjects/HelloAndroidStudioProject/HelloAndroidStudio/build/classes/debug/com/stevebroski/helloandroidstudio/R$attr.class
+1377035350000 441 adb95029846dd277126346bc6431cf498fe128f9 /home/steve/AndroidStudioProjects/HelloAndroidStudioProject/HelloAndroidStudio/build/classes/debug/com/stevebroski/helloandroidstudio/R$id.class
+1377035350000 455 51800e1397e2f942166f9498f8b04712604dc930 /home/steve/AndroidStudioProjects/HelloAndroidStudioProject/HelloAndroidStudio/build/classes/debug/com/stevebroski/helloandroidstudio/R$drawable.class
+1377035350000 520 bf56924aeece7e3c3750da978839c0c26e5b74d6 /home/steve/AndroidStudioProjects/HelloAndroidStudioProject/HelloAndroidStudio/build/classes/debug/com/stevebroski/helloandroidstudio/R$string.class
+1377035350000 377 6a6c6dc5007e0f97cdfc3d5ff704506b4ea3f454 /home/steve/AndroidStudioProjects/HelloAndroidStudioProject/HelloAndroidStudio/build/classes/debug/com/stevebroski/helloandroidstudio/BuildConfig.class
+1377035350000 436 24c131308cd0cbacada76fad412947b7218bb22a /home/steve/AndroidStudioProjects/HelloAndroidStudioProject/HelloAndroidStudio/build/classes/debug/com/stevebroski/helloandroidstudio/R$menu.class
+1377035350000 849 b1e09c107bc3bd8aa5c3b7b6686191e2cf64e605 /home/steve/AndroidStudioProjects/HelloAndroidStudioProject/HelloAndroidStudio/build/classes/debug/com/stevebroski/helloandroidstudio/MainActivity.class
+1377035350000 479 2a3531c8e9edfe15d06d8a1147e22ba609b6bcb7 /home/steve/AndroidStudioProjects/HelloAndroidStudioProject/HelloAndroidStudio/build/classes/debug/com/stevebroski/helloandroidstudio/R$style.class
+1377035350000 837 62a69c2dff123363bf56eaea518e95cb7979bf08 /home/steve/AndroidStudioProjects/HelloAndroidStudioProject/HelloAndroidStudio/build/classes/debug/com/stevebroski/helloandroidstudio/R.class
+1377035350000 509 3e1874a808f764a9310ad242ef77a47284141409 /home/steve/AndroidStudioProjects/HelloAndroidStudioProject/HelloAndroidStudio/build/classes/debug/com/stevebroski/helloandroidstudio/R$dimen.class
+1369432937000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /home/steve/android-studio/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1377035350000 442 653db0aae9e7b278d8743819cf9939514dda6819 /home/steve/AndroidStudioProjects/HelloAndroidStudioProject/HelloAndroidStudio/build/classes/debug/com/stevebroski/helloandroidstudio/R$layout.class
